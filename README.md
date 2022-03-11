@@ -8,7 +8,3 @@ Yet another minimal startpage:
 
 ## Configuration
 Simply edit `scss/theme.scss` and setup favourite font and colors!
-
-### Preview:
-
-![img](preview.png)
